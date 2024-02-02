@@ -1,0 +1,18 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "This course is for learning full javascript as a prerequisite for any backend js framework",
+  "main": "input.js",
+  "scripts": {
+    "start": "node Project2-Apitoextractdata.js"
+  },
+  "author": "Medhir Aryan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.5",
+    "fs": "^0.0.1-security",
+    "got": "^14.0.0",
+    "maps": "^0.3.3",
+    "readline-sync": "^1.4.10"
+  }
+}
