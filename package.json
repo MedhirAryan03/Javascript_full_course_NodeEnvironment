@@ -4,7 +4,7 @@
   "description": "This course is for learning full javascript as a prerequisite for any backend js framework",
   "main": "input.js",
   "scripts": {
-    "start": "node Project2-Apitoextractdata.js"
+    "start": "node Project1-ToDoList.js"
   },
   "author": "Medhir Aryan",
   "license": "ISC",
